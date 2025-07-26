@@ -56,7 +56,7 @@ export const metadata: Metadata = {
       "Build professional resumes tailored to your job role with our intelligent form system and multiple templates. Perfect for software developers, web developers, data analysts, and more.",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/favicon.jpg",
         width: 1200,
         height: 630,
         alt: "Hari Resume Builder Pro - Professional Resume Templates",
@@ -74,9 +74,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
-      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
-      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon.jpg", sizes: "16x16", type: "image/png" },
+      { url: "/favicon.jpg", sizes: "32x32", type: "image/png" },
+      { url: "/favicon.jpg", sizes: "any" },
     ],
     apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     other: [
